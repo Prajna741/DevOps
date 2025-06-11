@@ -2,5 +2,8 @@ Hello good morning
 Have a nice day
 
 12345678910
+<<<<<<< HEAD
 
-changes made in local repo
+changes made in local repo=
+Changes made on remote repo
+>>>>>>> refs/remotes/origin/master
